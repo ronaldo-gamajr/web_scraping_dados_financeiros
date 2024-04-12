@@ -37,7 +37,8 @@
 **7. Exemplo de Uso:**
 - Extraindo histórico de preços do Dólar no site do Banco Central
 - Fonte: [Banco Central](https://www.bcb.gov.br/)
-   ```python
+
+```python
 #Instalando o pacote bcb
 pip install python-bcb
 
