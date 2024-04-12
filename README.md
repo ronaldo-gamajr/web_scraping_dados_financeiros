@@ -25,18 +25,18 @@
      - BCB: para acessar os dados históricos do site do Banco do Brasil.
 
 **6. Uso:**
-   - Acesse aos notebooks:
+- Acesse aos notebooks:
     - [Criptomoedas](notebooks/criptomoedas.ipynb)
     - [Banco Central](notebooks/dados_banco_central.ipynb)
     - [Fundamentus](notebooks/dados_fundamentus.ipynb)
     - [Yahoo Finance](notebooks/yahoo_finance.ipynb)
-   - Configure as URLs alvo e os elementos HTML a serem extraídos dentro do código ou como argumentos de linha de comando.
-   - Execute o script para iniciar a coleta de dados.
-   - Os dados coletados serão salvos em DataFrame.
+- Configure as URLs alvo e os elementos HTML a serem extraídos dentro do código ou como argumentos de linha de comando.
+- Execute o script para iniciar a coleta de dados.
+- Os dados coletados serão salvos em DataFrame.
 
 **7. Exemplo de Uso:**
-    - Extraindo histórico de preços do Dólar no site do Banco Central
-    - Fonte: [Banco Central](https://www.bcb.gov.br/)
+- Extraindo histórico de preços do Dólar no site do Banco Central
+- Fonte: [Banco Central](https://www.bcb.gov.br/)
    ```python
 #Instalando o pacote bcb
 pip install python-bcb
