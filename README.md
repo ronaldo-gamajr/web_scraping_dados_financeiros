@@ -57,7 +57,7 @@ dados_do_bc
 
 **9. Autor:**
    - Ronaldo da Gama C. Junior
-   - ronaldo.profissional@hotmail.com
+   - E-mail: ronaldo.profissional@hotmail.com
 
 **10. Licença:**
    Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
