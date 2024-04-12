@@ -1,5 +1,5 @@
 # WEB SCRAPING FINANCE
-![imagem_de_precos_acoes](assets\webscraping_project.jpg)
+![imagem_de_precos_acoes](assets/webscraping_project.jpg)
 ---
 
 **1. Título do Projeto:**  Web Scraping Finance
