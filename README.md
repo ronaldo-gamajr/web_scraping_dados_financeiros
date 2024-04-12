@@ -52,15 +52,19 @@ dados_do_bc = sgs.get({"DOLAR": 1})
 dados_do_bc
 
    ```
+**8. Próximos Passos:**
+- Converter os notebooks que estão no formato .ipynb para .py e em seguida converter para .exe com a biblioteca PyInstaller, para uso em multiplataforma.
+- Ampliar o uso dos scripts para dados de outras áreas.
+- Criar interface de usuário com o PySimpleGui.
 
-**8. Contribuições:**
+**9. Contribuições:**
    Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções.
 
-**9. Autor:**
+**10. Autor:**
    - Ronaldo da Gama C. Junior
    - E-mail: ronaldo.profissional@hotmail.com
 
-**10. Licença:**
+**11. Licença:**
    Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
 ---
