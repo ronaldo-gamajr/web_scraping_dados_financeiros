@@ -1,5 +1,5 @@
 # WEB SCRAPING FINANCE
-
+![imagem_de_precos_acoes](assets\webscraping_project.jpg)
 ---
 
 **1. Título do Projeto:**  Web Scraping Finance
@@ -24,14 +24,7 @@
      - Cryptocmd: para acessar os dados históricos de preços de Criptomoedas.
      - BCB: para acessar os dados históricos do site do Banco do Brasil.
 
-**6. Instalação:**
-   Para executar o projeto, siga as instruções abaixo:
-   ```bash
-   pip install beautifulsoup4
-   pip install requests
-   ```
-
-**7. Uso:**
+**6. Uso:**
    - Acesse aos notebooks:
     - [Criptomoedas](notebooks/criptomoedas.ipynb)
     - [Banco Central](notebooks/dados_banco_central.ipynb)
@@ -41,7 +34,7 @@
    - Execute o script para iniciar a coleta de dados.
    - Os dados coletados serão salvos em DataFrame.
 
-**8. Exemplo de Uso:**
+**7. Exemplo de Uso:**
     - Extraindo histórico de preços do Dólar no site do Banco Central
     - Fonte: [Banco Central](https://www.bcb.gov.br/)
    ```python
@@ -59,14 +52,14 @@ dados_do_bc
 
    ```
 
-**9. Contribuições:**
+**8. Contribuições:**
    Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções.
 
-**10. Autor:**
-   Ronaldo da Gama C. Junior
-   ronaldo.profissional@hotmail.com
+**9. Autor:**
+   - Ronaldo da Gama C. Junior
+   - ronaldo.profissional@hotmail.com
 
-**11. Licença:**
+**10. Licença:**
    Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
 ---
